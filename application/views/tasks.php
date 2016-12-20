@@ -65,6 +65,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <td>Create 3 tables. One is <b>Person</b> having attributes pid,pname. Second is <b>Color</b> having attributes cid,cname and Third table is <b>PersonColor</b> should contain there relationships. Create GUI which manage there relationships.</td>
                     <td><a href="http://localhost/codeignitor/personcolor">Example</a></td>
                 </tr>
+                <tr>
+                    <td>7</td>
+                    <td><b>Github Project</b></td>
+                </tr>
             </tbody>
         </table>
     </div>
